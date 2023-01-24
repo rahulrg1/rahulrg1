@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Garai</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-- 🌱 I’m currently learning **Competitive coding,MERN Stack development**
+- 🌱 I’m currently learning **Competitive coding,Data Structures and Algorithms,Web development**
 
 - 📫 How to reach me **rg1rahulrg1@gmail.com**
 
